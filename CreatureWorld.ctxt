@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CreatureWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CreatureWorld()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ CreatureWorld.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ object\ of\ class\ CreatureWorld\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ will\ complete\ actions\ that\ the\ CreatureWorld\ object\ should\r\n\ accomplish\ while\ the\ scenario\ is\ running\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ prepareCreatures()
+comment3.text=\r\n\ prepareCreatures\ is\ the\ method\ that\ loads\ in\ all\ the\ objects\ into\ your\ world.\r\n\ \r\n\ @params\ -\ there\ are\ no\ parameters.\r\n\ @wreturns\ -\ there\ are\ no\ return\ types.\r\n
+comment4.params=
+comment4.target=Creature\ getPlayerOne()
+comment4.text=\r\n\ getPlayerOne\ is\ the\ method\ that\ calls\ the\ playerone\ player.\r\n\ \r\n\ @params\ -\ there\ are\ no\ parameters.\r\n\ @returns\ -\ there\ are\ no\ return\ types.\r\n
+comment5.params=
+comment5.target=Creature\ getPlayerTwo()
+comment5.text=\r\n\ getPlayerTwo\ is\ the\ method\ that\ calls\ the\ playertwo\ player.\r\n
+numComments=6
